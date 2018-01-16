@@ -240,3 +240,20 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/University Test/app/models/main-models.js.map
+/University Test/app/models/main-models.js
+/University Test/app/services/tests.service.js.map
+/University Test/app/services/tests.service.js
+/University Test/app/test-card/test-card.component.spec.js.map
+/University Test/app/test-card/test-card.component.spec.js
+/University Test/app/test-card/test-card.component.js.map
+/University Test/app/test-card/test-card.component.js
+/University Test/app/services/tests.service.ts
+/University Test/app/app.routing.js.map
+/University Test/app/app.routing.js
+/University Test/app/app.module.js.map
+/University Test/app/app.module.js
+/University Test/app/app.component.spec.js.map
+/University Test/app/app.component.spec.js
+/University Test/app/app.component.js.map
+/University Test/app/app.component.js

@@ -1,0 +1,3 @@
+﻿<div *ngIf="tests" class="list-group col-sm-3">
+    <a href="app/test/{{test.TestID}}" *ngFor="let test of tests" class="list-group-item">{{test.TestName}}</a>
+</div>
